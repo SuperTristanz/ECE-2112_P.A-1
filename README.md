@@ -30,10 +30,12 @@
 ##### Output: first: 1 middle: [2,3,4,5] last: 6
 
 #### Code: 
-### ![image](https://github.com/user-attachments/assets/14043743-1847-413f-90f9-b05f6f6242c4)
+### ![image](https://github.com/user-attachments/assets/4a739827-d521-41ac-bfc3-ef5a9c9d4fe1)
+
 
 #### Output:
-### ![image](https://github.com/user-attachments/assets/ccf456e8-43a6-496f-bd1f-f1c45173ec51)
+![image](https://github.com/user-attachments/assets/5c928843-e321-4144-8063-88e9be1ee53a)
+
 
 
 
